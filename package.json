@@ -15,6 +15,7 @@
     "bcryptjs": "^3.0.2",
     "dotenv": "^X.X.X",
     "express": "^X.X.X",
+    "jsonwebtoken": "^9.0.2",
     "mongoose": "^X.X.X"
   },
   "devDependencies": {
